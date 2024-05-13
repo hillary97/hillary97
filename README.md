@@ -16,10 +16,10 @@
 <img src="https://komarev.com/ghpvc/?username=hillary97&style=flat-square&color=blue" alt=""/>
 
 <h1>
- ### Hi there, I am Hillary Nthome 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am  Hillary Nthome
   
+</h1>
+Passionate Fullstack developer with expertise in front-end technologies such as HTML,CSS,BOOTSTRAP, REACT,JAVASCRIPT and BAck-end technologies such as PHP, PYTHON MONGO DB, MY SQL,SQL. I believe in continous self development hence always eager to learn more and new technologies while challenging myself technology wise.    
 </div>
 
 
