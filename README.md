@@ -19,7 +19,7 @@
 Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am  Hillary Nthome
   
 </h1>
-Passionate Fullstack developer with expertise in front-end technologies such as HTML,CSS,BOOTSTRAP, REACT,JAVASCRIPT and BAck-end technologies such as PHP, PYTHON MONGO DB, MY SQL,SQL. I believe in continous self development hence always eager to learn more and new technologies while challenging myself technology wise.    
+Passionate Fullstack developer with expertise in Front-End technologies such as HTML,CSS,BOOTSTRAP, REACT,JAVASCRIPT and Back-End technologies such as PHP, PYTHON, MONGO DB, MY SQL,SQL. I believe in continous self development hence always eager to learn more and new technologies while challenging myself technology wise.    
 </div>
 
 
