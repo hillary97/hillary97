@@ -30,7 +30,7 @@ Passionate Fullstack developer with expertise in Front-End technologies such as 
 
 ---
 
-### :woman_technologist: All About Me :
+### :man_technologist: All About Me :
 I am a Full Stack Developer and a graphics designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m currently a Software Engineer and contributing to frontend and backend for building web applications.
 
